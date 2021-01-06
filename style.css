@@ -229,7 +229,7 @@ h1{
     border-radius: 20px;
     border: 2px solid black;
     background-repeat: no-repeat;
-    background-image: url("/images/chat.png");
+    background-image: url("images/chat.png");
     float: left; 
 }
 
